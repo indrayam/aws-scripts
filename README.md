@@ -1,1 +1,3 @@
-# aws-scripts
+# AWS Services using CLI and/or Terraform
+
+Coming soon...
